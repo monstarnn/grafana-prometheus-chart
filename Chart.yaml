@@ -1,0 +1,12 @@
+name: grafana-prometheus
+description: Deploy monitoring stuff - grafana and prometheus.
+version: 1.0.1
+home: https://k8s.io/helm
+keywords:
+ - monitoring
+ - grafana
+ - prometheus
+ - cluster-monitoring
+sources:
+  - https://github.com/kubernetes/helm
+icon: https://logz.io/wp-content/uploads/2017/03/prometheus-monitoring.jpg
